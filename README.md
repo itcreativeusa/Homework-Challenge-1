@@ -6,10 +6,10 @@ This Homework-Challenge-1 website was created as a bootcamp everyweek student ch
 - HTML elemens "div" were replaced by semantic elements (header, figure, nav, main, article, aside, footer)
 - Added alt attributes to icons & images
 - Added descriptive title 
-- Fixed HTML errors (unnecessary slashes removed)
 - Fixed navigation links
-- Added comments before each element or section of the page
+- Added comments to HTML index file before each element or section of the page
 - CSS selectors & properties are consolidated & organized
+- Added comments to CSS file
 - Added README.MD file
 - Added LICENSE
 
