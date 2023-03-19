@@ -45,11 +45,10 @@ Screenshot included
    ```
 
 ## Credits
-Solution how to make accessible background image 
-```
-role="img" aria-label=" ".
-```
- found here
+Solution ``` role="img" aria-label=" " ``` 
+how to make accessible background image 
+
+ found here:
 
 http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
 
