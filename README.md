@@ -2,13 +2,12 @@
 
 ## Description
 
-```
 Link to deployed application
 https://itcreativeusa.github.io/Homework-Challenge-1/
 
+
 Github link 
 https://github.com/itcreativeusa/Homework-Challenge-1
-```
 
 This Homework-Challenge-1 website was created as a bootcamp everyweek student challege. This website is a HTML & CSS landing page. The code of this landing page was refactored to make it more accessible. 
 - HTML elemens "div" were replaced by semantic elements (header, figure, nav, main, article, aside, footer)
@@ -41,27 +40,24 @@ No special requirements
 
 Screenshot included
 
-    ```md
+  ```
     ![Homework-Challenge-1 screenshot](assets/images/screenshot-homework-challenge-1.png)
-    ```
+   ```
 
 ## Credits
 Solution how to make accessible background image found here
 
 ```
 role="img" aria-label=" ".
-
+```
 http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
 
-```
+
 
 Then followed the documentation from here:
 
-```
-
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/img_role
 
-```
 
 ## License
 
