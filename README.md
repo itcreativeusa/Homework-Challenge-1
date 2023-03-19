@@ -38,7 +38,7 @@ No special requirements
 
 ## Usage
 
-Screenshot included
+Screenshot located in ``` assets/images ``` folder
 
   ```
     ![Homework-Challenge-1 screenshot](assets/images/screenshot-homework-challenge-1.png)
