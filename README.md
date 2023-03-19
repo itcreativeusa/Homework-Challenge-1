@@ -45,13 +45,13 @@ Screenshot included
    ```
 
 ## Credits
-Solution how to make accessible background image found here
-
+Solution how to make accessible background image 
 ```
 role="img" aria-label=" ".
 ```
-http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
+ found here
 
+http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
 
 
 Then followed the documentation from here:
