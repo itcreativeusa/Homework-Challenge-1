@@ -17,7 +17,6 @@ This Homework-Challenge-1 website was created as a bootcamp everyweek student ch
 - CSS selectors & properties are consolidated & organized
 - Added comments to CSS file
 - Added README.MD file
-- Added LICENSE
 
 ## Table of Contents (Optional)
 
