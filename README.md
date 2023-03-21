@@ -5,7 +5,6 @@
 Link to deployed application
 https://itcreativeusa.github.io/Homework-Challenge-1/
 
-
 Github link 
 https://github.com/itcreativeusa/Homework-Challenge-1
 
@@ -45,13 +44,13 @@ Screenshot located in ``` assets/images ``` folder
    ```
 
 ## Credits
-Solution ``` role="img" aria-label=" " ``` 
-how to make accessible background image 
 
- found here:
+Solution ``` role="img" aria-label=" " ``` used in index.html file,
+This solution makes accessible background image 
+
+Solution was found here:
 
 http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
-
 
 Then followed the documentation from here:
 
