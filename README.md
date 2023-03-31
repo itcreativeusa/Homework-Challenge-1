@@ -3,10 +3,10 @@
 ## Description
 
 Link to deployed application
-https://itcreativeusa.github.io/Homework-Challenge-1/
+https://itcreativeusa.github.io/Horiseon-Landing-Page/
 
 Github link 
-https://github.com/itcreativeusa/Homework-Challenge-1
+https://github.com/itcreativeusa/Horiseon-Landing-Page
 
 This Homework-Challenge-1 website was created as a bootcamp everyweek student challege. This website is a HTML & CSS landing page. The code of this landing page was refactored to make it more accessible. 
 - HTML elemens "div" were replaced by semantic elements (header, figure, nav, main, aside, footer)
