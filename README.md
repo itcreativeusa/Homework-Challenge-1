@@ -1,4 +1,4 @@
-# Homework-Challenge-1 Webpage
+# Horiseon Landing Page
 
 ## Description
 
@@ -8,7 +8,7 @@ https://itcreativeusa.github.io/Horiseon-Landing-Page/
 Github link 
 https://github.com/itcreativeusa/Horiseon-Landing-Page
 
-This Homework-Challenge-1 website was created as a bootcamp everyweek student challege. This website is a HTML & CSS landing page. The code of this landing page was refactored to make it more accessible. 
+This Horiseon-Landing-Page website was created as a bootcamp everyweek student challege. This website is a HTML & CSS landing page. The code of this landing page was refactored to make it more accessible. 
 - HTML elemens "div" were replaced by semantic elements (header, figure, nav, main, aside, footer)
 - Added alt attributes to icons & images
 - Added descriptive title 
