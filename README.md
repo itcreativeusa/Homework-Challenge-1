@@ -3,10 +3,10 @@
 ## Description
 
 Link to deployed application
-https://itcreativeusa.github.io/horiseon-Landing-Page/
+https://itcreativeusa.github.io/horiseon-landing-page/
 
 Github link 
-https://github.com/itcreativeusa/horiseon-Landing-Page
+https://github.com/itcreativeusa/horiseon-landing-page
 
 This Horiseon-Landing-Page website was created as a bootcamp everyweek student challege. This website is a HTML & CSS landing page. The code of this landing page was refactored to make it more accessible. 
 - HTML elemens "div" were replaced by semantic elements (header, figure, nav, main, aside, footer)
